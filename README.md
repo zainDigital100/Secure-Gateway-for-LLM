@@ -69,6 +69,7 @@ Configurable decision logic in `config.py`:
 ---
 
 ## 📂 Project Structure
+```
 ## llm-security-gateway/
 │
 ├── main.py                  # Flask API entry point (routes /analyze)
@@ -86,3 +87,4 @@ Configurable decision logic in `config.py`:
 ├── requirements.txt        # Python dependencies
 │
 ├── README.md               # Project documentation
+```
