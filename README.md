@@ -70,7 +70,7 @@ Configurable decision logic in `config.py`:
 
 ## 📂 Project Structure
 ```
-## llm-security-gateway/
+llm-security-gateway/
 │
 ├── main.py                  # Flask API entry point (routes /analyze)
 ├── config.py               # Policy engine (ALLOW / MASK / BLOCK rules)
